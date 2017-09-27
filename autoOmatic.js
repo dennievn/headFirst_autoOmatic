@@ -1,5 +1,5 @@
 // in reference to project name in Head First JS
-// @ 2017 Duong Nguyen | All rights reserved.
+
 
 function makeCar(){ //generating function for calling
 	var carMakes = ["Tesla", "Audi", "Subaru", "BMW", "Toyota"];
